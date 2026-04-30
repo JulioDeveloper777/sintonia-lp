@@ -1,6 +1,7 @@
 # Sintonia
-
 Built with Next.js to present a relationship-focused platform that helps couples identify early "micro-signals," improve communication, and strengthen emotional connection through AI-powered insights and guided actions.
+
+<img src="https://i.imgur.com/hn46JMz.png"/>
 
 ## Stack
 
